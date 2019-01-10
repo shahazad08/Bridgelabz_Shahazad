@@ -1,0 +1,17 @@
+{
+  "Rice": {
+    "name": "Basmati Rice",
+    "weight": 30,
+    "price per kg": 50
+  },
+  "Pulses": {
+    "name": "Lentil",
+    "weight": 30,
+    "price per kg": 55
+  },
+  "Wheat": {
+    "name": "Jawar",
+    "weight": 30,
+    "price per kg": 45
+  }
+}
