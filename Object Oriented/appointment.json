@@ -1,0 +1,52 @@
+{
+  "Dr.Arman Singh": [
+    {
+      "patient Name": "Shahazad Shaikh",
+      "Id": 12,
+      "Age": 24,
+      "mobile number": "8446663013",
+      "time": "AM"
+    },
+    {
+      "patient Name": "Nikhil Lad",
+      "Id": 12,
+      "Age": 34,
+      "mobile number": "8956345213",
+      "time": "AM"
+    },
+    {
+      "patient Name": "sagar",
+      "Id": 234,
+      "Age": 7,
+      "mobile number": "234567890",
+      "time": "AM"
+    }
+  ],
+  "Dr.Shital Patil": [
+    {
+      "patient Name": "jhanvi mhatre",
+      "Id": 14,
+      "Age": 21,
+      "mobile number": "9420036520",
+      "time": "PM"
+    }
+  ],
+  "Dr.Varun Shaha": [
+    {
+      "patient Name": "Salman shaikh",
+      "Id": 15,
+      "Age": 22,
+      "mobile number": "8976348562",
+      "time": "AM"
+    }
+  ],
+  "Dr. Amit Joshi": [
+    {
+      "patient Name": "sagar kadam",
+      "Id": 12,
+      "Age": 34,
+      "mobile number": "8956345213",
+      "time": "AM"
+    }
+  ]
+}
